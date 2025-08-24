@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/WaterCareMain.unity
+    guid: 5f8157da3aecaa944ade734a2872c5c2
+  - enabled: 1
+    path: Assets/Scenes/CaptureSelfie/Test Selfie.unity
+    guid: ce391b3dd1ce6bb419da09f0d78cae7e
+  - enabled: 0
+    path: Assets/WebAR Foundation/Samples/FaceTrackingCustom.unity
+    guid: 1fa5c84c3c9a84628b0a96be74b1eae7
+  - enabled: 0
+    path: Assets/Scenes/5dVR.unity
+    guid: c6877e2b61be449469deb901007e2501
+  m_configObjects: {}
